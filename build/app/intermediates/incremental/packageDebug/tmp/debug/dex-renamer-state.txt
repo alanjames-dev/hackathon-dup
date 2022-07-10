@@ -1,0 +1,4 @@
+#Sun Jul 10 07:19:23 IST 2022
+base.0=D\:\\Flutter-Development\\Projects\\hackathon-sk\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
